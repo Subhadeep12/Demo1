@@ -100,7 +100,7 @@ QueryPatientDataWithCode(type, loincCode, 10)
         yaxis: { range: [0, 10] }
       },
       config: {
-        displayModeBar: true
+        displayModeBar: false
       }
     });
   });
